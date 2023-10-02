@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\bin\Debug\form15.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\bin\Debug\form15.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\bin\Debug\form15.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form15\form15\obj\Debug\form15.pdb
